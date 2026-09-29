@@ -1,0 +1,8 @@
+NVR-1 | CH01 MAIN | hevc,2560,1440
+rtsp://admin:pass@192.168.0.23:554/Streaming/Channels/101
+NVR-1 | CH02 MAIN | hevc,2560,1440
+rtsp://admin:pass@192.168.0.23:554/Streaming/Channels/201
+NVR-1 | CH03 MAIN | h264,1920,1080
+rtsp://admin:pass@192.168.0.23:554/Streaming/Channels/301
+NVR-1 | CH04 MAIN | h264,1920,1080
+rtsp://admin:pass@192.168.0.23:554/Streaming/Channels/401
